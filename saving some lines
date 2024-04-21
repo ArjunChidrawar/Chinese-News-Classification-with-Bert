@@ -1,0 +1,3 @@
+saving some lines:
+data_preproc -- sample_txt = '我去圖書館'
+main -- class_names = ['中國大陸', '香港/澳門', '台灣', '͋軍事','社會']
